@@ -1,5 +1,5 @@
 package com.PracticeSet_1;
-// print pyramid star pattern
+// simple left pyramid
 public class Practical5 {
     public static void main(String[] args){
 
