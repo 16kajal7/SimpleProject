@@ -9,6 +9,7 @@ public class Practical7 {
         //***
         //****
         //***** 
+
         int n = 5;
 
         for(int row = 1; row <= n; row++) {
@@ -17,7 +18,7 @@ public class Practical7 {
                 System.out.print("* ");
             }
            System.out.println();     
-        } 
+        }
     }
     
 }
