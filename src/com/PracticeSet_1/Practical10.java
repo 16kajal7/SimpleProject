@@ -15,8 +15,8 @@ public class Practical10 {
        // what formula we need to acheive 4 with rows and n -> i.e. 5 -row +1 = n - row +1
         for(int col = 1; col <= n-row+1; col++) {
             System.out.print("* ");
-        }
+            }
         System.out.println();
-    }
+        }
     }
 }
