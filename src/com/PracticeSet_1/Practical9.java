@@ -1,7 +1,5 @@
 package com.PracticeSet_1;
 
-import java.net.PortUnreachableException;
-
 public class Practical9 {
 
 //print below pattern

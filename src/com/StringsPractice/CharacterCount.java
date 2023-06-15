@@ -1,6 +1,5 @@
 package com.StringsPractice;
 
-import java.lang.invoke.StringConcatFactory;
 import java.util.Scanner;
 
 public class CharacterCount {
